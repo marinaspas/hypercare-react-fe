@@ -1,4 +1,4 @@
-# Hypercare React Take Home Assignment
+# Takehome
 
 Create a client-side Todo app using React. This is expected to be completed in under 2 hours.
 
@@ -26,7 +26,3 @@ Grading rubric:
 - Style and layout: 10%
 - Bonuses or creativity earn extra points, but you should try to complete the assignment in under 2 hours.
 - AI use is allowed, but you'll need to be able to fully explain your solution.
-
-To get started, fork this example project and save your work; or use a React-based server-rendered framework.
-
-Once completed, please email a link to your project to <enrico.sacchetti@hypercare.com>.
