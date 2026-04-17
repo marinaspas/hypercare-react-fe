@@ -37,8 +37,6 @@ export function TodoItem({ todo, onToggle, onDelete }: TodoItemProps) {
             <p className="text-sm text-gray-500 mt-1">{todo.description}</p>
           )}
         </div>
-
-        {/* Delete button */}
         <button
           onClick={e => {
             e.stopPropagation();
